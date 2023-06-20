@@ -5,4 +5,4 @@ En la carpeta ''Stats'' se encuentran los datos estadisticos de los futbolistas 
 La carpeta ''Valoración'' contiene los datos de valoración de la FIFA, los cuales deseamos predecir a partir de los datos estadísticos. 
 Además, se encuentran las herramientas para modificar los nombres de los jugadores, y de esta forma, poder unificar los dos conjuntos de datos.
 
-Finalmente, en la carpeta ''Modelos'', guardamos los modelos predictivos aplicados para el analisis, distinguiendo tres conjuntos de datos distintos. ACP, datos reducidos y datos completos.ç
+Finalmente, en la carpeta ''Modelos'', guardamos los modelos predictivos aplicados para el analisis, distinguiendo tres conjuntos de datos distintos. ACP, datos reducidos y datos completos.
